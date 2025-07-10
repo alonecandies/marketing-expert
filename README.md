@@ -1,1 +1,1 @@
-# marketing-expert
+# Marketing Expert
