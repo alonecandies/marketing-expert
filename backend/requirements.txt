@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+pymongo
+python-jose
+passlib[bcrypt]
+langchain
+langchain-openai
+pytest
+email-validator
